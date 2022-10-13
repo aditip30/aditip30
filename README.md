@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**aditip30/aditip30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 
 
 - 🔭 I’m currently pursuing Masters in Business Intelligence and Analytics
 - 🌱 I’m currently working towards becoming a data scientist 
