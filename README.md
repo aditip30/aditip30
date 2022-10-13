@@ -9,5 +9,6 @@
 - 📫 How to reach me: aditipatel3011@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: fun fact about me is that I love fun facts
-<img src="https://github.com/aditip30/aditip30/commit/1dafbe6bf72fd1b52f8affe41abadc1ef4e60846">
+- 
+<img src="https://raw.githubusercontent.com/aditip30/aditip30/1dafbe6bf72fd1b52f8affe41abadc1ef4e60846/header.png">
 
