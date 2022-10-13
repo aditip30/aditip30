@@ -10,4 +10,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: fun fact about me is that I love fun facts
 
-<img src= "https://github.com/aditip30/aditip30/blob/main/header.png">
+
